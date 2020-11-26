@@ -1,7 +1,7 @@
 # Py_frame_capture
  A simple script written using Python 3 to moudulate GUI and take timed screenclips
 
-### 1. Download pyautogui & winsound Python Module using Pip command
+### 1. Download pyautogui & pillow Module using Pip command
 ### 2. Imput the resolution specification in the script
 ### 3. A sample file for Resolution inputs is provided for reference
 ### 4. Run the script and the images will be stored in the same directory as the script file
