@@ -1,0 +1,13 @@
+Native Screen Resolution : 1920 x 1080
+Current Scaling : 1.25
+Actual Resolution : 1536 x 864
+Initial Coordinates (N) : 218 x 95 
+Forward Button Coordinates (N) : 1455 x 455
+App Location Coordinates (N) : 500 x 850
+Breadth and Height of Frame (N) : 1147 x 695
+Initial Coordinates (A) : 273 x 119 
+Forward Button Coordinates (A) : 1819 x 569
+App Location Coordinates (A) : 625 x 1063
+Breadth and Height of Frame (A) : 1434 x 869
+
+Number of Pages : 162
