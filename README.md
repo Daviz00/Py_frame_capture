@@ -7,7 +7,7 @@
 ### 4. Run the script and the images will be stored in the same directory as the script file
 ### 5. Compile the image files using any program of choice
 
-> Plan to build an Electron app simulating this functionality for ease of use [styled using Tailwind CSS and React]
+> Plan to build an Electron app simulating this functionality for ease of use [styled using Tailwind CSS and React] and add relevant comments to this repo
 
 
 Credits: https://medium.com/analytics-vidhya/automate-gui-clicks-and-save-screenshots-fcbc9d52a08c
